@@ -192,8 +192,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 </p>
                 <p>
                     We live in an increasingly digital world day by day. 
-                    In an ongoing cyber security climate where incidents like the <a href="https://www.gao.gov/blog/solarwinds-cyberattack-demands-significant-federal-and-private-sector-response-infographic">SolarWinds compromise</a>
-                     and the <a href="https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update">CrowdStrike outage</a> are occurring, 
+                    In an ongoing cyber security climate where incidents like the <a href="https://www.gao.gov/blog/solarwinds-cyberattack-demands-significant-federal-and-private-sector-response-infographic" target="_blank">SolarWinds compromise</a>
+                     and the <a href="https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update" target="_blank">CrowdStrike outage</a> are occurring, 
                     there has never been a more important time to make sure your technology is secure and maintained. 
                     <a href="mailto:welcome@computerbutler.net">Contact us</a> today for a <b>free network assessment and up to 2 free hours of labor credited on your first invoice.</b>
                 </p>
@@ -201,19 +201,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
             <div style="text-align: center">
                 <p>
-                    Running Windows 10 or Windows 11 and have a Microsoft account? <a href="https://support.microsoft.com/en-us/topic/faq-for-e-tree-on-microsoft-edge-msn-weather-and-microsoft-wallet-d6fde56e-b61d-4990-bd69-7a503ed64895">Use your weather app to grow trees!</a>
+                    Running Windows 10 or Windows 11 and have a Microsoft account? <a href="https://support.microsoft.com/en-us/topic/faq-for-e-tree-on-microsoft-edge-msn-weather-and-microsoft-wallet-d6fde56e-b61d-4990-bd69-7a503ed64895" target="_blank">Use your weather app to grow trees!</a>
                 </p>
                 <p>
-                    FYI: <a href="https://www.microsoft.com/en-us/windows/end-of-support">Windows 10 will stop receiving Microsoft Updates</a> on October 14, 2025. <a href="mailto:welcome@computerbutler.net">Contact us</a> to plan an upgrade for your organization today.
+                    FYI: <a href="https://www.microsoft.com/en-us/windows/end-of-support" target="_blank">Windows 10 will stop receiving Microsoft Updates</a> on October 14, 2025. <a href="mailto:welcome@computerbutler.net">Contact us</a> to plan an upgrade for your organization today.
                 </p>
                 <p>
                     We know how to turn your network's free disk space into MRR (monthly recurring revenue). <a href="mailto:welcome@computerbutler.net">Ask us how.</a>
                 </p>
                 <p>
-                    The Computer Butler LLC signed the 2015 Supreme Court Amicus Brief which resulted in marriage equality being granted to LGBT citizens: <a href="https://www.huffpost.com/entry/marriage-equality-amicus_n_6808260">https://www.huffpost.com/entry/marriage-equality-amicus_n_6808260</a>
+                    The Computer Butler LLC signed the 2015 Supreme Court Amicus Brief which resulted in marriage equality being granted to LGBT citizens: <a href="https://www.huffpost.com/entry/marriage-equality-amicus_n_6808260" target="_blank">https://www.huffpost.com/entry/marriage-equality-amicus_n_6808260</a>
                 </p>
                 <p>
-                    We leverage the Berkeley Open Infrastructure for Networked Computing (<a href="https://boinc.berkeley.edu">BOINC</a>) and the World Community Grid to contribute processing power to help solve some of humanity's most intractable challenges - like researching treatments that can lead to a cure for diseases like cancer and COVID-19. Clients that wish to join us in this research can do so for free.
+                    We leverage the Berkeley Open Infrastructure for Networked Computing (<a href="https://boinc.berkeley.edu" target="_blank">BOINC</a>) and the World Community Grid to contribute processing power to help solve some of humanity's most intractable challenges - like researching treatments that can lead to a cure for diseases like cancer and COVID-19. Clients that wish to join us in this research can do so for free.
                 </p>
                 <p>
                     Interested in doing business? Contact us at <b><a href="tel:6157966556">(615) 796-6556</a></b> or <b><a href="mailto:welcome@computerbutler.net">welcome@computerbutler.net</a></b> and we'll be "at your service!" :)
@@ -224,7 +224,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <!-- First row: Three items -->
                 <div class="row">
                     <div class="box">
-                        <a href="https://appsource.microsoft.com/en-US/marketplace/partner-dir/3baa70b5-6e07-43ba-8021-51ecc8f75fa4"><img src="msft.png" alt="Microsoft Partner"></a>
+                        <a href="https://appsource.microsoft.com/en-US/marketplace/partner-dir/3baa70b5-6e07-43ba-8021-51ecc8f75fa4" target="_blank"><img src="msft.png" alt="Microsoft Partner"></a>
                     </div>
                     <div class="box">
                         <img src="goog.png" alt="Google Partner">
